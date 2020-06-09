@@ -8,7 +8,7 @@ Resource        Keywords/Ingresar.robot
 Resource        Keywords/Quick_demo.robot
 Resource        Keywords/About_Us.robot
 Suite Setup     Ingresando al sitio
-Suite Teardown  Cerrar sitio
+#Suite Teardown  Cerrar sitio
 
 *** Test Cases ***
 Ingresar al sitio y hacer la completitud de pantalla
@@ -31,9 +31,5 @@ Llenar campos de formulario y enviarlo
 Ingresar a la opcion About Us
     [Documentation]         Ingresa a la opción "About Us" y verifica el contenido, después ingresa a la
     ...                     sub opción "Mission & Vision" y verifica el contenido
+    [Tags]              About
     About_Us.Ingresar a About Us
-
-
-
-
-

@@ -38,8 +38,8 @@ Click en opcion Registration
 #About Us
 Click en About us
     [Documentation]         Click en la opción "About Us" del menú
-    wait until element is visible       ${Menu}
-    click element           ${About_Us}
+    #wait until element is visible       ${Menu}
+    double click element           ${About_Us}
 
 Click Mission & Vision
     [Documentation]         Click en la sub opción "Mission & Vision" de la opción "About Us"
