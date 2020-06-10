@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4042402-a0f2-4263-b42d-16fa10ce3448" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Variables/Common.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Variables/Common.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inicio.robot" beforeDir="false" afterPath="$PROJECT_DIR$/inicio.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportes/log.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportes/output.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reportes/report.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
