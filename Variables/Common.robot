@@ -12,12 +12,13 @@ ${Quick_demo}       xpath=//a[text()="Quick Demo"]
 #Error 404
 ${Error_404}        id=errorboxoutline
 ${Home_Page}        xpath=//a[text()="Home Page"]
-########MENÚ HORIZONTAL##########
+##################    MENÚ HORIZONTAL    ######################
 ${Menu}             id=ja-mainnav
 ${Home}             title=Home
 #About Us y sub opción
 ${About_Us}         xpath=//span[text()="ABOUT US"]
 ${Mission_Y_Vision}     xpath=//span[text()="Mission & Vision"]
+#
 ${Training}         title=TRAINING
 ${Videos}           title=VIDEOS
 ${Tutorial}         title=TUTORIAL

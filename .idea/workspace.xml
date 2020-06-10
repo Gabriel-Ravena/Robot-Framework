@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4042402-a0f2-4263-b42d-16fa10ce3448" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/inicio.robot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Keywords/About_Us.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Keywords/About_Us.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Keywords/Common.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Keywords/Common.robot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page.ROBOT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Variables/Common.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Variables/Common.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inicio.robot" beforeDir="false" afterPath="$PROJECT_DIR$/inicio.robot" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,9 +60,9 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1591728535999" />
-    <state x="376" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1591728965696">
+    <state x="376" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1591823431583">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="376" y="188" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1591728965696" />
+    <state x="376" y="188" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1591823431583" />
   </component>
 </project>
