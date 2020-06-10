@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4042402-a0f2-4263-b42d-16fa10ce3448" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/reportes/log.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reportes/output.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/reportes/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Keywords/Quick_demo.robot" beforeDir="false" afterPath="$PROJECT_DIR$/Keywords/Quick_demo.robot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inicio.robot" beforeDir="false" afterPath="$PROJECT_DIR$/inicio.robot" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +32,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/my-reports" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -56,10 +56,10 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="134" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1360.728@0.0.1360.728" timestamp="1591728886252" />
-    <state x="460" y="119" key="FileChooserDialogImpl" timestamp="1591728535999">
+    <state x="460" y="119" key="FileChooserDialogImpl" timestamp="1591828740561">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="460" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1591728535999" />
+    <state x="460" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1591828740561" />
     <state x="376" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1591823431583">
       <screen x="0" y="0" width="1360" height="728" />
     </state>

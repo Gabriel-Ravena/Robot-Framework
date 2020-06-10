@@ -37,6 +37,10 @@ Llenar campos de formulario y enviarlo
     Common.Click en Quick demo
     Quick_demo.Llenando el formulario
 
+#Resetear formulario
+    #[Documentation]
+    #Quick_demo.Llenando el formulario(Reset)
+
 Ingresar a la opcion About Us
     #[Setup]         Ingresando al sitio
     #[Teardown]      Cerrar sitio

@@ -23,3 +23,8 @@ Llenando el formulario
     [Documentation]         Llena el formulario con todos los datos
     Quick_demo.Llenar formulario Quick demo
     Quick_demo.Click en el boton Submit
+
+Llenando el formulario(Reset)
+    [Documentation]         Llena el formulario con todos los datos y resetea
+    Quick_demo.Llenar formulario Quick demo
+    Quick_demo.Click en el boton Reset
